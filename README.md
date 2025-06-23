@@ -44,7 +44,7 @@ export OPENAI_API_KEY=your-key-here
 streamlit run script.py
 ```
 
-🧩 Powered By
+## 🧩 Powered By
 
 LangChain
 Streamlit
@@ -52,7 +52,7 @@ OpenAI GPT
 FAISS
 
 
-🧪 Example Use Case
+## 🧪 Example Use Case
 
 Upload a research paper.
 Ask: "What is the author's main argument?"
@@ -60,7 +60,7 @@ Ask follow-up: "Can you find related studies online?"
 The agent performs a Google search and combines it with the PDF context for enhanced answers.
 
 
-📜 License
+## 📜 License
 
 MIT License. See LICENSE file for details.
 
